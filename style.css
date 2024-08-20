@@ -4,6 +4,16 @@
     box-sizing: border-box;
 }
 
+@font-face {
+  font-family: plain;
+  src: url('https://obys.agency/wp-content/themes/obys/fonts/plain-regular-webfont.woff') format('woff2'),
+}
+
+@font-face {
+  font-family: Silk Serif;
+  src: url('https://obys.agency/wp-content/themes/obys/fonts/silkserif-regularitalic-webfont.woff') format('woff2'),
+}
+
 html, body {
     height: 100%;
     width: 100%;
